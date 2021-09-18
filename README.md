@@ -1,0 +1,29 @@
+- 👋 Hi, I’m @swapanGit
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+swapanGit/swapanGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+##make your own script##</br>
+##install java## </br>
+wget https://download.java.net/openjdk/jdk11/ri/openjdk-11+28_linux-x64_bin.tar.gz </br>
+tar -xvf openjdk-11+28_linux-x64_bin.tar.gz </br>
+mv jdk-11 /opt </br></br></br></br>
+
+##install maven## </br>
+wget https://dlcdn.apache.org/maven/maven-3/3.8.2/binaries/apache-maven-3.8.2-bin.tar.gz </br>
+tar -xvf apache-maven-3.8.2-bin.tar.gz </br>
+mv apache-maven-3.8.2 /opt/ </br></br></br></br>
+
+##configure java and maven## </br>
+echo " </br>
+JAVA_HOME='/opt/jdk-11' </br>
+MAVEN_HOME='/opt/apache-maven-3.8.2' </br>
+PATH="$JAVA_HOME/bin:$MAVEN_HOME/bin:$PATH" </br>
+export PATH" >> .bashrc </br>
+</br></br></br></br>
