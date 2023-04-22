@@ -9,6 +9,12 @@ swapanGit/swapanGit is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+---
+Resume
+[Swapan.pdf](https://github.com/swapanGit/swapanGit/files/11301846/Swapan.pdf)
+---
+
+
 ##make your own script##</br>
 ##install java## </br>
 wget https://download.java.net/openjdk/jdk11/ri/openjdk-11+28_linux-x64_bin.tar.gz </br>
@@ -37,6 +43,4 @@ apt update
 apt-cache policy docker-ce
 apt install docker-ce
 systemctl status docker
-
-[Swapan.pdf](https://github.com/swapanGit/swapanGit/files/11301846/Swapan.pdf)
 
