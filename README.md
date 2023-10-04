@@ -7,10 +7,8 @@
 <!---
 swapanGit/swapanGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Resume [Swapan.pdf](https://github.com/swapanGit/swapanGit/files/11301846/Swapan.pdf)
 --->
-
-
-<!--Resume [Swapan.pdf](https://github.com/swapanGit/swapanGit/files/11301846/Swapan.pdf) -->
 
 ---
 [My Resume](https://github.com/swapanGit/swapanGit/blob/main/Swapan_Kumar_Soren_Cloud-DevOps.pdf)
