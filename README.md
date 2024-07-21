@@ -21,6 +21,8 @@ MTLS works:
 ![alt text](https://cloud.google.com/static/load-balancing/images/mtls_l7xlb.svg)
 
 https://cloud.google.com/load-balancing/docs/mtls
+https://aws.amazon.com/blogs/compute/consuming-private-amazon-api-gateway-apis-using-mutual-tls/
+https://azure.microsoft.com/en-us/blog/secure-your-application-traffic-with-application-gateway-mtls/
 
 
 
