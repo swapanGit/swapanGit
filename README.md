@@ -14,7 +14,8 @@ Resume [Swapan.pdf](https://github.com/swapanGit/swapanGit/files/11301846/Swapan
 [My Resume](https://github.com/swapanGit/swapanGit/blob/main/Swapan_Kumar_Soren_Cloud-DevOps.pdf) </br>
 [My Works on Devops](https://docs.google.com/presentation/d/1soDCTaRNuK_DgZpONGe_3Rn3f6NVzOOmJJQz0OmgNbE/edit#slide=id.gfa0e6a291f_0_18)
 ---
-
+MTLS works:
+https://cloud.google.com/static/load-balancing/images/mtls_l7xlb.svg
 
 ##make your own script##</br>
 ##install java## </br>
