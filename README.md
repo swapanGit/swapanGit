@@ -11,7 +11,7 @@ Resume [Swapan.pdf](https://github.com/swapanGit/swapanGit/files/11301846/Swapan
 --->
 
 ---
-[My Resume](https://github.com/swapanGit/swapanGit/blob/main/Swapan_Kumar_Soren_Cloud-DevOps.pdf) </br>
+[My Resume](https://github.com/swapanGit/swapanGit/blob/main/SwapanKumarSoren-updated2025.docx) </br>
 [My Works on Devops "click here"](https://docs.google.com/presentation/d/1soDCTaRNuK_DgZpONGe_3Rn3f6NVzOOmJJQz0OmgNbE/edit#slide=id.gfa0e6a291f_0_18)
 ---
 
